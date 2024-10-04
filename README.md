@@ -1,7 +1,6 @@
 # jpa01-eug-wong
 
-Deployed at: http://jpa01-eug-wong.dokku-07.cs.ucsb.edu
-
+Deployed at: https://jpa01-eug-wong.dokku-07.cs.ucsb.edu
 
 # About this repo
 
